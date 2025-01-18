@@ -1,0 +1,1 @@
+docker run -t -d -p 127.0.0.1:9980:9980 -e "domain=cloud\\.pifferi\\.info" -e "username=Collabora-Admin" -e "password=2G*q55jTYodXpU^U" --restart always collabora/code
